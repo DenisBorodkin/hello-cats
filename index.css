@@ -1,0 +1,39 @@
+p .combackcats {
+	font-size: 25px;
+
+	color: blue;
+	font-weight: 900;
+}
+
+.catsfoodlist {
+	font-size: 35px;
+	font-weight: 900;
+	padding-left: 10px;
+}
+
+p a {
+	text-decoration: none;
+	font-size: 21px;
+	padding-left: 30px;
+	color: black;
+	font-weight: 800;
+	font-style: italic;
+}
+
+button {
+	padding: 10px;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: blue;
+	color: white;
+	margin-bottom: 30px;
+}
+
+.output {
+	padding-left: 40px;
+	font-size: 30px;
+	color: red;
+	font-style: italic;
+	font-weight: 700;
+}
